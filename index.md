@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## About
 
 I am currently a Senior Data Scientist at Qventus, Inc. Previously I was in the following academic roles:
