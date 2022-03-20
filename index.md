@@ -1,4 +1,4 @@
-## Michael Ruddy Personal Website
+## About
 
 I am currently a Senior Data Scientist at Qventus, Inc. Previously I was in the following academic roles:
 * Assistant Professor of Data Science, University of San Francisco
