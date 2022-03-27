@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-![Michael Ruddy Picture](assets/website_photo_ruddy.jpg)
+<img src="docs/assets/images/website_photo_ruddy.jpg" alt="Michael Ruddy Picture" width="350"/>
 
 ## About
 
