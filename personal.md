@@ -6,4 +6,4 @@ I was born in San Juan, Puerto Rico to parents Michael Palmer Ruddy and Ana Mar√
 * Minneapolis, MN
 * San Rafael, Bay Area, CA
 
-I currently live in San Rafael, but will be relocating to Kitchener-Waterloo in July 2022. I enjoy bouldering at my local rock climbing gym, as well as at gyms I encounter during my travels. My other hobbies include gardening, cooking, reading, and hiking.
+I currently live in San Rafael. I enjoy bouldering at my local rock climbing gym, as well as at gyms I encounter during my travels. My other hobbies include gardening, cooking, reading, and hiking.
