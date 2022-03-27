@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-<img src="docs/assets/images/website_photo_ruddy.jpg" alt="Michael Ruddy Picture" width="350"/>
+<img style="float: center;" src="docs/assets/images/website_photo_ruddy.jpg" alt="Michael Ruddy Picture" width="350"/>
 
 ## About
 
