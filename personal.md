@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 I was born in San Juan, Puerto Rico to parents Michael Palmer Ruddy and Ana María Ruddy Romaguera. I lived in Gurabo before moving to Union City in northwestern Tennessee. I moved to Raleigh, North Carolina for graduate school. My academic career had me living in many places
 * Rhode Island, RI
 * Leipzig, Germany
