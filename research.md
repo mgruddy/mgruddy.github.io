@@ -32,7 +32,7 @@ During my time at the MPI MiS in Leipzig, I was fortunate to come into contact w
 
 However, the most work I've done in this area is a large project that has spanned almost three years of time. Here we use tools from combinatorics (scary!) and algebraic geometry to describe the relationship between a representation of a statistical model and the result of a numerical algorithm to compute the maximum likelihood estimate:
 
-* [Rational partition models under iterative proportional scaling](), *preprint available soon*, (with [Jane Ivy Coons](https://sites.google.com/view/jane-ivy-coons) and [Carlotta Langer](https://dblp.org/pid/207/4233.html))
+* [Rational partition models under iterative proportional scaling](), *Preprint available soon*, (with [Jane Ivy Coons](https://sites.google.com/view/jane-ivy-coons) and [Carlotta Langer](https://dblp.org/pid/207/4233.html))
 
 ## Deep Learning in Radiology
 
