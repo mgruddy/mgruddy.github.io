@@ -12,7 +12,7 @@ Additionally I was instructor for two other data science courses at USF:
 
 ## Mathematics Courses
 
-During graduate school I taught a number of Calculus I and II courses with different variations (Honors, Life Sciences, etc.) as well as a course on Euclidean Geometry. You can find a Teaching Portfolio that I prepared during Summer 2019 <a href="folder/portfolio.pdf" target="_blank">here</a> which provides a detailed description of those courses as well as my philosophy on how I approached teaching those courses.
+During graduate school I taught a number of Calculus I and II courses with different variations (Honors, Life Sciences, etc.) as well as a course on Euclidean Geometry. You can find a Teaching Portfolio that I prepared during Summer 2019 <a href="https://mgruddy.github.io/folder/portfolio.pdf" target="_blank">here</a> which provides a detailed description of those courses as well as my philosophy on how I approached teaching those courses.
 
 ## Past Activities
 
